@@ -9,4 +9,4 @@ Any slides or other materials that are shown in class will be posted here.
 ##Week 2 - 10/1
 ###[Introduction to jQuery](Introduction to jQuery.pptx)
 ###[Version Control with Git](git.pptx)
-###[Javascript Objects](Javascript Objects.pptx)
+###[Javascript Objects](JavaScript Objects.pptx)

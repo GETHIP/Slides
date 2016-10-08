@@ -10,3 +10,6 @@ Any slides or other materials that are shown in class will be posted here.
 ###[Introduction to jQuery](Introduction to jQuery.pptx)
 ###[Version Control with Git](git.pptx)
 ###[Javascript Objects](JavaScript Objects.pptx)
+
+##Week 3 - 10/8
+###[Meteor](Meteor.pptx)

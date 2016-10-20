@@ -13,3 +13,6 @@ Any slides or other materials that are shown in class will be posted here.
 
 ##Week 3 - 10/8
 ###[Meteor](Meteor.pptx)
+
+##Week 4 - 10/15
+###[Project Pitches](Pitches.pptx)
